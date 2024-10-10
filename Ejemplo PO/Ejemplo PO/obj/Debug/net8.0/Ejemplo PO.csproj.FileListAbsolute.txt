@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\bin\Debug\net8.0\Ejemplo PO.exe
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\bin\Debug\net8.0\Ejemplo PO.deps.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\bin\Debug\net8.0\Ejemplo PO.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\bin\Debug\net8.0\Ejemplo PO.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\bin\Debug\net8.0\Ejemplo PO.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\refint\Ejemplo PO.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\Ejemplo PO.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO\Ejemplo PO\obj\Debug\net8.0\ref\Ejemplo PO.dll

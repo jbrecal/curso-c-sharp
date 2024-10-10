@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\bin\Debug\net8.0\elseif.exe
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\bin\Debug\net8.0\elseif.deps.json
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\bin\Debug\net8.0\elseif.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\bin\Debug\net8.0\elseif.dll
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\bin\Debug\net8.0\elseif.pdb
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.dll
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\refint\elseif.dll
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.pdb
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\elseif.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\elseif\elseif\obj\Debug\net8.0\ref\elseif.dll

@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\bin\Debug\net8.0\excepcionesThrow.exe
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\bin\Debug\net8.0\excepcionesThrow.deps.json
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\bin\Debug\net8.0\excepcionesThrow.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\bin\Debug\net8.0\excepcionesThrow.dll
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\bin\Debug\net8.0\excepcionesThrow.pdb
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.dll
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\refint\excepcionesThrow.dll
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.pdb
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\excepcionesThrow.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\excepcionesThrow\excepcionesThrow\obj\Debug\net8.0\ref\excepcionesThrow.dll

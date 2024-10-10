@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brene\\Desktop\\Curso C#\\Ejemplo PO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C676A4F4-6BD0-4E92-AA99-2537CF73F9CA}|Ejemplo PO\\Ejemplo PO.csproj|c:\\users\\brene\\desktop\\curso c#\\ejemplo po\\ejemplo po\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C676A4F4-6BD0-4E92-AA99-2537CF73F9CA}|Ejemplo PO\\Ejemplo PO.csproj|solutionrelative:ejemplo po\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brene\\Desktop\\Curso C#\\Ejemplo PO\\Ejemplo PO\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo PO\\Program.cs",
+              "ToolTip": "C:\\Users\\brene\\Desktop\\Curso C#\\Ejemplo PO\\Ejemplo PO\\Program.cs",
+              "RelativeToolTip": "Ejemplo PO\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:48:40.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

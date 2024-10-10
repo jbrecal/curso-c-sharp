@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\bin\Debug\net8.0\Ejemplo PO Getter Setter.exe
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\bin\Debug\net8.0\Ejemplo PO Getter Setter.deps.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\bin\Debug\net8.0\Ejemplo PO Getter Setter.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\bin\Debug\net8.0\Ejemplo PO Getter Setter.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\bin\Debug\net8.0\Ejemplo PO Getter Setter.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\refint\Ejemplo PO Getter Setter.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\Ejemplo PO Getter Setter.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO Getter Setter\Ejemplo PO Getter Setter\obj\Debug\net8.0\ref\Ejemplo PO Getter Setter.dll

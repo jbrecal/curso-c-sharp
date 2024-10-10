@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Herencia principio de sustitucion/1.0.0": {
+        "runtime": {
+          "Herencia principio de sustitucion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Herencia principio de sustitucion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

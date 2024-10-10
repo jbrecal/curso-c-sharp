@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\bin\Debug\net8.0\array BucleFor bucle foreach.exe
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\bin\Debug\net8.0\array BucleFor bucle foreach.deps.json
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\bin\Debug\net8.0\array BucleFor bucle foreach.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\bin\Debug\net8.0\array BucleFor bucle foreach.dll
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\bin\Debug\net8.0\array BucleFor bucle foreach.pdb
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.dll
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\refint\array BucleFor bucle foreach.dll
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.pdb
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\array BucleFor bucle foreach.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\array BucleFor bucle foreach\array BucleFor bucle foreach\obj\Debug\net8.0\ref\array BucleFor bucle foreach.dll

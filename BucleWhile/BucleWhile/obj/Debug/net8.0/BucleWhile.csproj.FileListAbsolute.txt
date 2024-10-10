@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.exe
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.deps.json
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.dll
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.pdb
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.dll
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\refint\BucleWhile.dll
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.pdb
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\BucleWhile\BucleWhile\obj\Debug\net8.0\ref\BucleWhile.dll

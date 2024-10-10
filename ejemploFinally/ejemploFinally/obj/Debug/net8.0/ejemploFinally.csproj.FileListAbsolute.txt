@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\bin\Debug\net8.0\ejemploFinally.exe
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\bin\Debug\net8.0\ejemploFinally.deps.json
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\bin\Debug\net8.0\ejemploFinally.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\bin\Debug\net8.0\ejemploFinally.dll
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\bin\Debug\net8.0\ejemploFinally.pdb
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.dll
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\refint\ejemploFinally.dll
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.pdb
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ejemploFinally.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\ejemploFinally\ejemploFinally\obj\Debug\net8.0\ref\ejemploFinally.dll

@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\bin\Debug\net8.0\whileConRandom.exe
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\bin\Debug\net8.0\whileConRandom.deps.json
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\bin\Debug\net8.0\whileConRandom.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\bin\Debug\net8.0\whileConRandom.dll
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\bin\Debug\net8.0\whileConRandom.pdb
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.dll
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\refint\whileConRandom.dll
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.pdb
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\whileConRandom.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\whileConRandom\whileConRandom\obj\Debug\net8.0\ref\whileConRandom.dll

@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.exe
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.deps.json
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.dll
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.pdb
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.dll
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\refint\CondicionalSwitch.dll
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.pdb
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\ref\CondicionalSwitch.dll

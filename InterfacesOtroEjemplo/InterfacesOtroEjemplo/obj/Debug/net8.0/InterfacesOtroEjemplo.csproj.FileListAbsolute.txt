@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\bin\Debug\net8.0\InterfacesOtroEjemplo.exe
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\bin\Debug\net8.0\InterfacesOtroEjemplo.deps.json
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\bin\Debug\net8.0\InterfacesOtroEjemplo.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\bin\Debug\net8.0\InterfacesOtroEjemplo.dll
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\bin\Debug\net8.0\InterfacesOtroEjemplo.pdb
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.dll
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\refint\InterfacesOtroEjemplo.dll
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.pdb
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\InterfacesOtroEjemplo.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\InterfacesOtroEjemplo\InterfacesOtroEjemplo\obj\Debug\net8.0\ref\InterfacesOtroEjemplo.dll

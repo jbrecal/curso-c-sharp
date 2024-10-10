@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\bin\Debug\net8.0\Ejemplo PO constructores.exe
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\bin\Debug\net8.0\Ejemplo PO constructores.deps.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\bin\Debug\net8.0\Ejemplo PO constructores.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\bin\Debug\net8.0\Ejemplo PO constructores.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\bin\Debug\net8.0\Ejemplo PO constructores.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\refint\Ejemplo PO constructores.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\Ejemplo PO constructores.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO constructores\Ejemplo PO constructores\obj\Debug\net8.0\ref\Ejemplo PO constructores.dll

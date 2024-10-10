@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\bin\Debug\net8.0\Ejemplo PO encapsulacion.exe
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\bin\Debug\net8.0\Ejemplo PO encapsulacion.deps.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\bin\Debug\net8.0\Ejemplo PO encapsulacion.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\bin\Debug\net8.0\Ejemplo PO encapsulacion.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\bin\Debug\net8.0\Ejemplo PO encapsulacion.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\refint\Ejemplo PO encapsulacion.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\Ejemplo PO encapsulacion.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO encapsulacion\Ejemplo PO encapsulacion\obj\Debug\net8.0\ref\Ejemplo PO encapsulacion.dll

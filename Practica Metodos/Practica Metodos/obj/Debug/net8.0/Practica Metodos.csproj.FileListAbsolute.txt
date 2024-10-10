@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\bin\Debug\net8.0\Practica Metodos.exe
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\bin\Debug\net8.0\Practica Metodos.deps.json
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\bin\Debug\net8.0\Practica Metodos.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\bin\Debug\net8.0\Practica Metodos.dll
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\bin\Debug\net8.0\Practica Metodos.pdb
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.dll
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\refint\Practica Metodos.dll
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.pdb
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\Practica Metodos.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Practica Metodos\Practica Metodos\obj\Debug\net8.0\ref\Practica Metodos.dll

@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\bin\Debug\net8.0\Condicionales3.exe
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\bin\Debug\net8.0\Condicionales3.deps.json
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\bin\Debug\net8.0\Condicionales3.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\bin\Debug\net8.0\Condicionales3.dll
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\bin\Debug\net8.0\Condicionales3.pdb
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.dll
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\refint\Condicionales3.dll
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.pdb
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\Condicionales3.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Condicionales3\Condicionales3\obj\Debug\net8.0\ref\Condicionales3.dll

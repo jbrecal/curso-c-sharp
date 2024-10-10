@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucleWhile", "BucleWhile\BucleWhile.csproj", "{51A09789-C250-4335-97DB-42BA8E20A971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A09789-C250-4335-97DB-42BA8E20A971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A09789-C250-4335-97DB-42BA8E20A971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A09789-C250-4335-97DB-42BA8E20A971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A09789-C250-4335-97DB-42BA8E20A971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ADD4CAE-A7BA-4AEB-8CF4-3BC06AF78534}
+	EndGlobalSection
+EndGlobal

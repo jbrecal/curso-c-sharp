@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\bin\Debug\net8.0\UsoChecked.exe
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\bin\Debug\net8.0\UsoChecked.deps.json
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\bin\Debug\net8.0\UsoChecked.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\bin\Debug\net8.0\UsoChecked.dll
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\bin\Debug\net8.0\UsoChecked.pdb
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.dll
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\refint\UsoChecked.dll
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.pdb
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\UsoChecked.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\UsoChecked\UsoChecked\obj\Debug\net8.0\ref\UsoChecked.dll

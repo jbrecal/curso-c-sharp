@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\bin\Debug\net8.0\Ejemplo PO llamdas y clase Math.exe
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\bin\Debug\net8.0\Ejemplo PO llamdas y clase Math.deps.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\bin\Debug\net8.0\Ejemplo PO llamdas y clase Math.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\bin\Debug\net8.0\Ejemplo PO llamdas y clase Math.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\bin\Debug\net8.0\Ejemplo PO llamdas y clase Math.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\refint\Ejemplo PO llamdas y clase Math.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\Ejemplo PO llamdas y clase Math.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO llamdas y clase Math\Ejemplo PO llamdas y clase Math\obj\Debug\net8.0\ref\Ejemplo PO llamdas y clase Math.dll

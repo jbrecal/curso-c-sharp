@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brene\\Desktop\\Curso C#\\elseif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEADC77-E847-4C6D-809A-C99D7C276EE8}|elseif\\elseif.csproj|c:\\users\\brene\\desktop\\curso c#\\elseif\\elseif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEADC77-E847-4C6D-809A-C99D7C276EE8}|elseif\\elseif.csproj|solutionrelative:elseif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brene\\Desktop\\Curso C#\\elseif\\elseif\\Program.cs",
+              "RelativeDocumentMoniker": "elseif\\Program.cs",
+              "ToolTip": "C:\\Users\\brene\\Desktop\\Curso C#\\elseif\\elseif\\Program.cs",
+              "RelativeToolTip": "elseif\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:39:19.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

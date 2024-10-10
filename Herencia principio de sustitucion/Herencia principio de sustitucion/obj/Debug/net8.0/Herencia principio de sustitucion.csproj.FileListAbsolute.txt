@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\bin\Debug\net8.0\Herencia principio de sustitucion.exe
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\bin\Debug\net8.0\Herencia principio de sustitucion.deps.json
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\bin\Debug\net8.0\Herencia principio de sustitucion.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\bin\Debug\net8.0\Herencia principio de sustitucion.dll
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\bin\Debug\net8.0\Herencia principio de sustitucion.pdb
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.dll
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\refint\Herencia principio de sustitucion.dll
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.pdb
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\Herencia principio de sustitucion.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Herencia principio de sustitucion\Herencia principio de sustitucion\obj\Debug\net8.0\ref\Herencia principio de sustitucion.dll

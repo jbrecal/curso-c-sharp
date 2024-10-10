@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brene\\Desktop\\Curso C#\\Herencia principio de sustitucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E08046-A18E-4794-9FEB-32E8EC2C8A3B}|Herencia principio de sustitucion\\Herencia principio de sustitucion.csproj|c:\\users\\brene\\desktop\\curso c#\\herencia principio de sustitucion\\herencia principio de sustitucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E08046-A18E-4794-9FEB-32E8EC2C8A3B}|Herencia principio de sustitucion\\Herencia principio de sustitucion.csproj|solutionrelative:herencia principio de sustitucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brene\\Desktop\\Curso C#\\Herencia principio de sustitucion\\Herencia principio de sustitucion\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia principio de sustitucion\\Program.cs",
+              "ToolTip": "C:\\Users\\brene\\Desktop\\Curso C#\\Herencia principio de sustitucion\\Herencia principio de sustitucion\\Program.cs",
+              "RelativeToolTip": "Herencia principio de sustitucion\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:45:09.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

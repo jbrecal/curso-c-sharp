@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brene\\Desktop\\Curso C#\\Practica Metodos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58DAC6E2-A958-4E25-9D19-B21754A88A42}|Practica Metodos\\Practica Metodos.csproj|c:\\users\\brene\\desktop\\curso c#\\practica metodos\\practica metodos\\metodovoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DAC6E2-A958-4E25-9D19-B21754A88A42}|Practica Metodos\\Practica Metodos.csproj|solutionrelative:practica metodos\\metodovoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6F5D15-36FA-4844-8615-454514A5E93C}|..\\Condicionales\\Condicionales.csproj|c:\\users\\brene\\desktop\\curso c#\\condicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetodoVoid.cs",
+              "DocumentMoniker": "C:\\Users\\brene\\Desktop\\Curso C#\\Practica Metodos\\Practica Metodos\\MetodoVoid.cs",
+              "RelativeDocumentMoniker": "Practica Metodos\\MetodoVoid.cs",
+              "ToolTip": "C:\\Users\\brene\\Desktop\\Curso C#\\Practica Metodos\\Practica Metodos\\MetodoVoid.cs",
+              "RelativeToolTip": "Practica Metodos\\MetodoVoid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:16:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condicionales.cs",
+              "DocumentMoniker": "C:\\Users\\brene\\Desktop\\Curso C#\\Condicionales\\Condicionales.cs",
+              "RelativeDocumentMoniker": "..\\Condicionales\\Condicionales.cs",
+              "ToolTip": "C:\\Users\\brene\\Desktop\\Curso C#\\Condicionales\\Condicionales.cs",
+              "RelativeToolTip": "..\\Condicionales\\Condicionales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:24:03.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

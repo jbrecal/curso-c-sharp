@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\bin\Debug\net8.0\Ejemplo PO conceptos.exe
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\bin\Debug\net8.0\Ejemplo PO conceptos.deps.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\bin\Debug\net8.0\Ejemplo PO conceptos.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\bin\Debug\net8.0\Ejemplo PO conceptos.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\bin\Debug\net8.0\Ejemplo PO conceptos.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\refint\Ejemplo PO conceptos.dll
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.pdb
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\Ejemplo PO conceptos.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\Ejemplo PO conceptos\Ejemplo PO conceptos\obj\Debug\net8.0\ref\Ejemplo PO conceptos.dll

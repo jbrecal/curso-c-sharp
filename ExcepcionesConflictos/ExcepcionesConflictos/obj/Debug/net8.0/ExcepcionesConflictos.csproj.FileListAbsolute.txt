@@ -1,0 +1,14 @@
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\bin\Debug\net8.0\ExcepcionesConflictos.exe
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\bin\Debug\net8.0\ExcepcionesConflictos.deps.json
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\bin\Debug\net8.0\ExcepcionesConflictos.runtimeconfig.json
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\bin\Debug\net8.0\ExcepcionesConflictos.dll
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\bin\Debug\net8.0\ExcepcionesConflictos.pdb
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.AssemblyInfoInputs.cache
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.AssemblyInfo.cs
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.csproj.CoreCompileInputs.cache
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.dll
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\refint\ExcepcionesConflictos.dll
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.pdb
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ExcepcionesConflictos.genruntimeconfig.cache
+C:\Users\brene\Desktop\Curso C#\ExcepcionesConflictos\ExcepcionesConflictos\obj\Debug\net8.0\ref\ExcepcionesConflictos.dll
